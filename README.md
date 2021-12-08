@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ryan
-#### I am a student at BloomTech, studying Full Stack Web Development
+# Hi there 👋, my name is Ryan
+### I am a student at BloomTech, studying Full Stack Web Development
 
 - 🔭 I’m currently working on personal projects and becoming a better developer 
 - 🌱 I’m currently learning algorithms :sweat_smile: 
