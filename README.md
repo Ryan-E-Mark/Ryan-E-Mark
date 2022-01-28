@@ -1,8 +1,7 @@
 # Hi there 👋, my name is Ryan
-### I am a student at BloomTech, studying Full Stack Web Development
 
-- 🔭 I’m currently working on personal projects and becoming a better developer 
-- 🌱 I’m currently learning algorithms :sweat_smile: 
+- 👩‍💻 Full Stack Web Developer
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 💬 Ask me about anything! I'm very easy going 
 - ⚡ Fun fact: I was born and raised in Alaska 
 
