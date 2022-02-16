@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Ryan
 
 - 👩‍💻 Full Stack Web Developer
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 Exploring new technologies and developing software solutions. Starting to learn more about Web3 and blockchain development!
 - 💬 Ask me about anything! I'm very easy going 
 - ⚡ Fun fact: I was born and raised in Alaska 
 
